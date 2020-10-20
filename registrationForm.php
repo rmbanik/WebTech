@@ -48,13 +48,15 @@
 
 <label for="gender">Gender:</label>
 
-<table style="width:50%">
+<table style="width:30%">
 
   
   <tr>
   
-   <td><input type="radio" id="male"><label for="male">Male</label></td>
-   <td><input type="radio" id="female"><label for="female">Female</label></td>
+   <td style="width:46%"></td>
+   <td><input type="radio" id="male"><label for="male">Male</label> <input type="radio" id="female"><label for="female">Female</label></td>
+   
+   
    
   </tr>
 </table>
